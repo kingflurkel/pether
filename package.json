@@ -1,0 +1,22 @@
+{
+  "name": "pether",
+  "version": "1.0.0",
+  "description": "Pether is a whatsapp bot doing ethereum transactions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingflurkel/pether.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingflurkel/pether/issues"
+  },
+  "homepage": "https://github.com/kingflurkel/pether#readme",
+  "dependencies": {
+    "web3": "^0.18.4"
+  }
+}
